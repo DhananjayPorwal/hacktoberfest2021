@@ -72,6 +72,6 @@ STEP 3:
 
 ---
 
-### Contributers 🏆
+### Contributors 🏆
 
 ![](https://contrib.rocks/image?repo=DhananjayPorwal/hacktoberfest2021)
