@@ -1,3 +1,4 @@
+// program to reverse array 
 #include<stdio.h>
 main()
 {
@@ -5,13 +6,13 @@ main()
 	
 	printf("How many Elements You Enter : ");
 	scanf("%d",&n);
-	
+	// Using for loop
 	for(i=0; i<n; i++)
 	{
 		scanf("%d",&a[i]);
 	}
 	
-//	j = n-1;
+        //  j = n-1;
 	
 	for(i=0,j = n-1; i<n,j>=0; i++,j--)
 	{
